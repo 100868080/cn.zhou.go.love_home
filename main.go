@@ -7,7 +7,6 @@ import (
 )
 
 func main() {
-	//11100abc
-	fmt.Println("abc,hello,world")
+	fmt.Println("das645456as56d65d")
 	beego.Run()
 }
